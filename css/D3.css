@@ -1,0 +1,58 @@
+body{
+	width: 100%;
+	height: 100%;
+	margin: 0;
+	background-color: beige;
+	background-image: url(../img/index.jpg);
+	background-size:cover;
+	background-repeat: no-repeat;
+}
+h1{
+	font-family: "MicrosoftYaHeiUI-Bold"
+	font-size: 40px;
+	text-align: center;
+	color: #4169E1;
+}
+p{
+	font-size: 20px;
+	line-height: 2;
+	text-indent: 2em;
+	font-family: "MicrosoftYaHeiUI-Bold"
+	mar
+}
+.pre{
+	background-color: yellow;
+}
+a:link{
+	color: green;
+	text-decoration: none;
+}
+a:visited{
+	color: blueviolet;
+}
+a:hover{
+	color: red;
+}
+a:active{
+	color: blue;
+	background-color: grey;
+}
+/* 下面为D4测试 */
+.box{
+	border-width:10px;
+	border-style: dotted;
+	border-color: #7CACAE;
+}
+.box0{
+	
+	background-color: #008000;
+	border-width: 10px;
+	border-style: dotted;
+}
+.box1{
+	width: 100px;
+	height: 100px;
+	background-color: #0000FF;
+	border-style: dotted;
+	margin: 50px;
+}
