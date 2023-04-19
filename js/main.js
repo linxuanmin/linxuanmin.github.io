@@ -1,5 +1,5 @@
 function btnClick(){
-	window.location.href="/myPage/html/D3_universeIntroduce.html";
+	window.location.href="/html/D3_universeIntroduce.html";
 	
 }
 
